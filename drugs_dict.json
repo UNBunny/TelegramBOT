@@ -1,0 +1,668 @@
+{
+    "1": {
+        "drugs_title": "Парацетамол 500мг табл №20",
+        "drugs_price": "от 67.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1293419"
+    },
+    "2": {
+        "drugs_title": "Парацетамол 500мг табл №10",
+        "drugs_price": "от 10.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1271154"
+    },
+    "3": {
+        "drugs_title": "Парацетамол 500мг табл №20",
+        "drugs_price": "от 75.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1293420"
+    },
+    "4": {
+        "drugs_title": "Парацетамол 500мг табл №10",
+        "drugs_price": "от 40.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1273018"
+    },
+    "5": {
+        "drugs_title": "Парацетамол 500мг табл шип №12",
+        "drugs_price": "от 139.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1294771"
+    },
+    "6": {
+        "drugs_title": "Парацетамол 25мг/мл р-р д/пр внутрь 100мл",
+        "drugs_price": "от 61.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2725/1337183"
+    },
+    "7": {
+        "drugs_title": "Парацетамол детский 120мг/5мл сусп д/пр внутрь д/дет 100мл",
+        "drugs_price": "от 92.90",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1338989"
+    },
+    "8": {
+        "drugs_title": "Парацетамол детский 120мг/5мл сусп д/пр внутрь 200г апельсин",
+        "drugs_price": "от 147.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1279698"
+    },
+    "9": {
+        "drugs_title": "Парацетамол детский 120мг/5мл сусп д/пр внутрь 100г клубничная",
+        "drugs_price": "от 88.90",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1279800"
+    },
+    "10": {
+        "drugs_title": "Парацетамол-Альтфарм 500мг супп рект №10",
+        "drugs_price": "от 51.40",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1292637"
+    },
+    "11": {
+        "drugs_title": "Эффералган 30мг/мл р-р д/дет 90мл",
+        "drugs_price": "от 104.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1271112"
+    },
+    "12": {
+        "drugs_title": "Эффералган 500мг табл шип №16",
+        "drugs_price": "от 160.20",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1285882"
+    },
+    "13": {
+        "drugs_title": "Цефекон Д 100мг супп рект №10 д/дет",
+        "drugs_price": "от 51.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1272602"
+    },
+    "14": {
+        "drugs_title": "Цефекон Д 250мг супп рект №10 д/дет",
+        "drugs_price": "от 59.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1288210"
+    },
+    "15": {
+        "drugs_title": "Цефекон Д 50мг супп рект №10 д/дет",
+        "drugs_price": "от 24.20",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1288159"
+    },
+    "16": {
+        "drugs_title": "Парацетамола 24мг/мл р-р д/пр внутрь 100мл клубника",
+        "drugs_price": "от 95.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2725/1325866"
+    },
+    "17": {
+        "drugs_title": "Брустан 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 226.90",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1273280"
+    },
+    "18": {
+        "drugs_title": "Ибуклин Экспресс 400мг+325мг пор д/приг р-ра д/пр внутрь 5г пак №9",
+        "drugs_price": "от 286.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1338926"
+    },
+    "19": {
+        "drugs_title": "Ибуклин 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 163.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1279332"
+    },
+    "20": {
+        "drugs_title": "Темпонет Плюс 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 183.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1339075"
+    },
+    "21": {
+        "drugs_title": "Парацитолгин 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 172.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1324330"
+    },
+    "22": {
+        "drugs_title": "Парацитолгин 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 159.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1331847"
+    },
+    "23": {
+        "drugs_title": "Паноксен табл п/о №20",
+        "drugs_price": "от 218.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1274538"
+    },
+    "24": {
+        "drugs_title": "Триган-Д табл №20",
+        "drugs_price": "от 143.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1274230"
+    },
+    "25": {
+        "drugs_title": "Аскофен П табл №20",
+        "drugs_price": "от 71.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1279810"
+    },
+    "26": {
+        "drugs_title": "Цитрамон-П Форте табл №10",
+        "drugs_price": "от 88.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1334834"
+    },
+    "27": {
+        "drugs_title": "Цитрамон П табл №20",
+        "drugs_price": "от 60.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1334636"
+    },
+    "28": {
+        "drugs_title": "Цитрамон П табл №20",
+        "drugs_price": "от 84.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1325859"
+    },
+    "29": {
+        "drugs_title": "Цитрамон П табл №30",
+        "drugs_price": "от 94.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1338980"
+    },
+    "30": {
+        "drugs_title": "Кофицил-Плюс табл №10",
+        "drugs_price": "от 22.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1271416"
+    },
+    "31": {
+        "drugs_title": "Брустрио табл №10",
+        "drugs_price": "от 276.30",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1313646"
+    },
+    "32": {
+        "drugs_title": "Цитрамон-П табл №10",
+        "drugs_price": "от 27.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1271584"
+    },
+    "33": {
+        "drugs_title": "Пенталгин Нео табл п/пл/о №20",
+        "drugs_price": "от 257.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1325158"
+    },
+    "34": {
+        "drugs_title": "Парацетамол-АКОС 120мг/5мл сусп д/пр внутрь д/дет 100мл",
+        "drugs_price": "от 67.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1313033"
+    },
+    "35": {
+        "drugs_title": "Антигриппин-Экспресс пор д/приг р-ра д/пр внутрь 13,1г пак №9 ч/смор",
+        "drugs_price": "от 396.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1334571"
+    },
+    "36": {
+        "drugs_title": "Антигриппин-Экспресс пор д/приг р-ра д/пр внутрь 13,1г пак №6 лимон",
+        "drugs_price": "от 294.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1334570"
+    },
+    "37": {
+        "drugs_title": "Солпадеин Фаст табл п/пл/о №12",
+        "drugs_price": "от 202.60",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1312884"
+    },
+    "38": {
+        "drugs_title": "Мигрениум 65мг+500мг табл п/пл/о №20",
+        "drugs_price": "от 199.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1296675"
+    },
+    "39": {
+        "drugs_title": "Солпадеин Фаст табл раств №12",
+        "drugs_price": "от 312.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1278186"
+    },
+    "40": {
+        "drugs_title": "Ибуклин Экспресс 400мг+325мг пор д/приг р-ра д/пр внутрь 5г пак №6",
+        "drugs_price": "от 211.90",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2577/1313956"
+    },
+    "41": {
+        "drugs_title": "Некст 400мг+200мг табл п/пл/о №20",
+        "drugs_price": "от 290.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1282275"
+    },
+    "42": {
+        "drugs_title": "Лекофен Комбо 200мг+500мг табл п/пл/о №16",
+        "drugs_price": "от 337.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1313921"
+    },
+    "43": {
+        "drugs_title": "Бруфика Плюс 100мг+162,5мг/5 мл сусп д/пр внутрь фл 100мл",
+        "drugs_price": "от 379.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1290330"
+    },
+    "44": {
+        "drugs_title": "Нуралгон 400мг+325мг табл п/пл/о №10",
+        "drugs_price": "от 179.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1312634"
+    },
+    "45": {
+        "drugs_title": "Лекофен Комбо 200мг+500мг табл п/пл/о №10",
+        "drugs_price": "от 233.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1313920"
+    },
+    "46": {
+        "drugs_title": "Лекофен Комбо 200мг+500мгтабл п/пл/о №6",
+        "drugs_price": "от 163.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1313922"
+    },
+    "47": {
+        "drugs_title": "Ибуклин Юниор табл дисперг д/дет №20",
+        "drugs_price": "от 115.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2587/1271382"
+    },
+    "48": {
+        "drugs_title": "Нурофен Интенсив 200мг+500мг табл п/пл/о №6",
+        "drugs_price": "от 176.60",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1310467"
+    },
+    "49": {
+        "drugs_title": "Некст табл п/пл/о №10",
+        "drugs_price": "от 195.10",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1278400"
+    },
+    "50": {
+        "drugs_title": "Некст табл п/пл/о №10",
+        "drugs_price": "от 172.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1282577"
+    },
+    "51": {
+        "drugs_title": "Но-шпа Дуо 40мг+500мг табл №12",
+        "drugs_price": "от 201.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2553/1312889"
+    },
+    "52": {
+        "drugs_title": "Триган-Д табл №100",
+        "drugs_price": "от 418.40",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1271318"
+    },
+    "53": {
+        "drugs_title": "Сафистон 50мг+250мг+150мг табл №20",
+        "drugs_price": "от 234.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2548/1295376"
+    },
+    "54": {
+        "drugs_title": "Сафистон 50мг+250мг+150мг табл №10",
+        "drugs_price": "от 164.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2544/1314504"
+    },
+    "55": {
+        "drugs_title": "АнвиМакс пор д/приг р-ра д/пр внутрь 5г саше №6 лимон/мед",
+        "drugs_price": "от 224.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278634"
+    },
+    "56": {
+        "drugs_title": "АнвиМакс пор д/приг р-ра д/пр внутрь 5г саше №6 лимон",
+        "drugs_price": "от 233.40",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278614"
+    },
+    "57": {
+        "drugs_title": "Терафлю Экстра пор д/приг р-ра д/пр внутрь 15г пак №10 лимон",
+        "drugs_price": "от 635.80",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1286122"
+    },
+    "58": {
+        "drugs_title": "АнвиМакс пор д/приг р-ра д/пр внутрь 5г саше №12 лимон",
+        "drugs_price": "от 414.60",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1316137"
+    },
+    "59": {
+        "drugs_title": "АнвиМакс пор д/приг р-ра д/пр внутрь 5г саше №12 лимон",
+        "drugs_price": "от 404.80",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278609"
+    },
+    "60": {
+        "drugs_title": "Колдакт Флю Плюс капс пролонг №10",
+        "drugs_price": "от 264.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1272226"
+    },
+    "61": {
+        "drugs_title": "Терафлю ЭкстраТаб табл п/пл/о №10",
+        "drugs_price": "от 303.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1294457"
+    },
+    "62": {
+        "drugs_title": "Колдакт Флю Плюс капс пролонг №10",
+        "drugs_price": "от 271.90",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1315776"
+    },
+    "63": {
+        "drugs_title": "Ринзасип 5 г саше №5 апельсин",
+        "drugs_price": "от 210.60",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1273353"
+    },
+    "64": {
+        "drugs_title": "Ринза табл №10",
+        "drugs_price": "от 181.20",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1272208"
+    },
+    "65": {
+        "drugs_title": "Фервекс пак с/сах д/детей №8 малина",
+        "drugs_price": "от 350.30",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1290864"
+    },
+    "66": {
+        "drugs_title": "Ринзасип д/детей пор д/приг р-ра д/пр внутрь 3г пак №10 малиновый",
+        "drugs_price": "от 341.60",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1280432"
+    },
+    "67": {
+        "drugs_title": "Фервекс пак с/сах №8 лимон",
+        "drugs_price": "от 392.40",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1272374"
+    },
+    "68": {
+        "drugs_title": "Цитрамон-П табл №10",
+        "drugs_price": "от 21.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1271400"
+    },
+    "69": {
+        "drugs_title": "Цитрамон П табл №20",
+        "drugs_price": "от 99.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1296308"
+    },
+    "70": {
+        "drugs_title": "Антигриппин табл шип д/дет №30",
+        "drugs_price": "от 666.50",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1273042"
+    },
+    "71": {
+        "drugs_title": "Цитрамон-П табл №10",
+        "drugs_price": "от 15.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1271611"
+    },
+    "72": {
+        "drugs_title": "Антигриппин пор д/приг р-ра д/пр внутрь 5г пак №10 ромашка",
+        "drugs_price": "от 392.90",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1277076"
+    },
+    "73": {
+        "drugs_title": "Антигриппин пор д/приг р-ра д/пр внутрь 5г пак №10 мед/лимон",
+        "drugs_price": "от 416.30",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1277075"
+    },
+    "74": {
+        "drugs_title": "Колдрекс Хотрем лимонный пор №10",
+        "drugs_price": "от 470.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1271464"
+    },
+    "75": {
+        "drugs_title": "Колдрекс МаксГрипп пор д/приг р-ра №10 лимон",
+        "drugs_price": "от 442.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1273022"
+    },
+    "76": {
+        "drugs_title": "Колдрекс Хотрем пор №10 мед/лимон",
+        "drugs_price": "от 450.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1275839"
+    },
+    "77": {
+        "drugs_title": "Антигриппин табл шип №10 малина",
+        "drugs_price": "от 354.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1281162"
+    },
+    "78": {
+        "drugs_title": "Антигриппин табл шип д/взр №10",
+        "drugs_price": "от 365.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1291050"
+    },
+    "79": {
+        "drugs_title": "Антигриппин пор д/приг р-ра д/пр внутрь 5г пак №10 лимон",
+        "drugs_price": "от 400.70",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1339098"
+    },
+    "80": {
+        "drugs_title": "Антигриппин табл шип д/дет №10",
+        "drugs_price": "от 405.40",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1316341"
+    },
+    "81": {
+        "drugs_title": "АджиКолд Хотмикс пор д/приг р-ра д/пр внутрь 5г пак №10 апельсин",
+        "drugs_price": "от 350.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1339166"
+    },
+    "82": {
+        "drugs_title": "АджиКолд Хотмикс пор д/приг р-ра д/пр внутрь 5г пак №5 лимон",
+        "drugs_price": "от 185.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1339023"
+    },
+    "83": {
+        "drugs_title": "Колдрекс Хотрем пор д/приг р-ра №5 мед/лимон",
+        "drugs_price": "от 280.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1327127"
+    },
+    "84": {
+        "drugs_title": "Колдрекс Хотрем лимонный пор №5",
+        "drugs_price": "от 280.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1271128"
+    },
+    "85": {
+        "drugs_title": "Колдрекс Хотрем пор д/приг р-ра №5 мед/лимон",
+        "drugs_price": "от 286.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1315385"
+    },
+    "86": {
+        "drugs_title": "Антигриппин табл шип д/дет №10",
+        "drugs_price": "от 398.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1279985"
+    },
+    "87": {
+        "drugs_title": "АджиКолд Хотмикс пор д/приг р-ра д/пр внутрь 5г пак №10 лимон",
+        "drugs_price": "от 350.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2578/1339039"
+    },
+    "88": {
+        "drugs_title": "Спазмалгон Эффект табл п/пл/о №10",
+        "drugs_price": "от 186.70",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1309360"
+    },
+    "89": {
+        "drugs_title": "Спазмалгон Эффект табл п/пл/о №30",
+        "drugs_price": "от 406.80",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1309361"
+    },
+    "90": {
+        "drugs_title": "Терафлю пор д/приг р-ра №10 лесные ягоды",
+        "drugs_price": "от 723.50",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1276665"
+    },
+    "91": {
+        "drugs_title": "ГриппоФлю Экстра от простуды и гриппа пор №8 лимон",
+        "drugs_price": "от 390.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2318/1285881"
+    },
+    "92": {
+        "drugs_title": "Максиколд Рино пор д/приг р-ра д/пр внутрь 15г пак №10 лимон",
+        "drugs_price": "от 271.80",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278653"
+    },
+    "93": {
+        "drugs_title": "Максиколд Рино пор д/приг р-ра д/пр внутрь 15г пак №5 малина",
+        "drugs_price": "от 178.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278655"
+    },
+    "94": {
+        "drugs_title": "Максиколд Рино пор д/приг р-ра д/пр внутрь 15г пак №5 апельсин",
+        "drugs_price": "от 175.70",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278652"
+    },
+    "95": {
+        "drugs_title": "Терафлю пор д/приг р-ра д/пр внутрь 22,1г пак №4 лимон",
+        "drugs_price": "от 297.20",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278975"
+    },
+    "96": {
+        "drugs_title": "Терафлю пор д/приг р-ра д/пр внутрь 22,1г пак №10 лимон",
+        "drugs_price": "от 586.40",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278794"
+    },
+    "97": {
+        "drugs_title": "Терафлю пор д/приг р-ра д/пр внутрь 22,1г пак №14 лимон",
+        "drugs_price": "от 818.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1290736"
+    },
+    "98": {
+        "drugs_title": "ГриппоФлю Экстра от простуды и гриппа пор №3 лимон",
+        "drugs_price": "от 150.00",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2318/1285549"
+    },
+    "99": {
+        "drugs_title": "Максиколд Рино пор д/приг р-ра д/пр внутрь 15г пак №10 малина",
+        "drugs_price": "от 271.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1277942"
+    },
+    "100": {
+        "drugs_title": "Максиколд Рино пор д/приг р-ра д/пр внутрь 15г пак №5 лимон",
+        "drugs_price": "от 164.50",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1278654"
+    },
+    "101": {
+        "drugs_title": "Терафлю пор д/приг р-ра д/пр внутрь 11,5г пак №10 лесные ягоды",
+        "drugs_price": "от 746.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1316115"
+    },
+    "102": {
+        "drugs_title": "Ринзасип с вит С 5г саше №10 лимон",
+        "drugs_price": "от 346.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1276943"
+    },
+    "103": {
+        "drugs_title": "Ринзасип с вит С 5г саше №10 апельсин",
+        "drugs_price": "от 312.60",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1276942"
+    },
+    "104": {
+        "drugs_title": "Ринзасип с вит С 5г саше №5 ч/смор",
+        "drugs_price": "от 196.10",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1313429"
+    },
+    "105": {
+        "drugs_title": "Ринзасип с вит С 5г саше №5 лимон",
+        "drugs_price": "от 207.20",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1276945"
+    },
+    "106": {
+        "drugs_title": "Ринзасип с вит С 5г саше №10 ч/смор",
+        "drugs_price": "от 329.30",
+        "drugs_available": "есть",
+        "drugs_url": "https://farmakopeika.ru/catalog/2584/1276944"
+    },
+    "107": {
+        "drugs_title": "Аскофен Ультра 250мг+65мг+250мг табл п/пл/о №20",
+        "drugs_price": "от 141.90",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2545/1305616"
+    },
+    "108": {
+        "drugs_title": "Ранкоф табл №10",
+        "drugs_price": "от 189.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1310409"
+    },
+    "109": {
+        "drugs_title": "Дуоколд набор пор д/приг р-ра 5г пак №6 День+ пак №2 Ночь лимон",
+        "drugs_price": "от 296.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2543/1324564"
+    },
+    "110": {
+        "drugs_title": "Дуоколд набор пор д/приг р-ра 5г пак №3 День+ пак №1 Ночь лимон",
+        "drugs_price": "от 220.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2580/1324573"
+    },
+    "111": {
+        "drugs_title": "Дуоколд набор пор д/приг р-ра 5г пак №9 День+ пак №3 Ночь лимон",
+        "drugs_price": "от 364.00",
+        "drugs_available": "нет",
+        "drugs_url": "https://farmakopeika.ru/catalog/2440/1312400"
+    }
+}
